@@ -17,7 +17,7 @@ still taking shape, but the direction is clear.
 
 ### Experience
 
-**UI/UX & Product Intern · AeroGlyphics** (2026 – Present)
+**Product Design Intern · AeroGlyphics** (2026 – Present)
 Originally scoped as a marketing internship, the role shifted when the team decided to build a
 submission for the Gemini XPRIZE hackathon. Contributed UI/UX to **AeroCoach** — a tool that
 reads Fitbit/Apple Watch data and translates it into a plain-English read on sleep-apnea risk —
