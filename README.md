@@ -51,10 +51,3 @@ skill, but a real, working one.
 ### More
 
 Full background and case studies → **[personal site](https://claude.ai/code/artifact/01e2570f-64a3-46c8-80a1-4106b7ef7762)**
-
-<br>
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jyrahazlei&show_icons=true&theme=default&hide_border=true&title_color=8C3F4A&icon_color=B4626E&text_color=231F1E" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyrahazlei&layout=compact&hide_border=true&title_color=8C3F4A&text_color=231F1E&langs_count=6" />
-</p>
