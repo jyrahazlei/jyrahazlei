@@ -1,34 +1,60 @@
-# 👋 Hi, I'm Jyrah Azlei
+<h1 align="center">Jyrah Azlei Placido</h1>
+<p align="center"><i>The best of both worlds.</i></p>
 
-Turning data into decisions ~ 
-CS Engineering 🎓 
-Marketing Analytics 📊 
-AI-Native Building 🤖
+<p align="center">
+  <a href="mailto:placidojyrah@gmail.com"><img src="https://img.shields.io/badge/Email-8C3F4A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jyrahplacido/"><img src="https://img.shields.io/badge/LinkedIn-8C3F4A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-### About Me
+---
 
-I'm a first-year CS engineering student currently interning remotely in Product Marketing & Analytics at [Tapas.one](https://tapas.one), working across the Tapas / AeroGlyphics startup ecosystem. I sit at the intersection of technical fundamentals and marketing strategy — using AI tools to build and analyze faster than traditional workflows allow.
+### About
 
-### 🔭 Areas of Focus
+Computer Science Engineering student at the University of Pécs, 3rd semester, expected
+graduation 2029. The degree is technical, but the career goal is set on the business and
+product side of technology rather than software engineering itself — the exact path there is
+still taking shape, but the direction is clear.
 
-- Marketing Analytics & Attribution Modeling
-- Growth, Funnel & Retention Strategy
-- AI-Assisted Product Marketing
-- Data Visualization & Dashboards
-- CS Fundamentals (Python, Data Structures)
-- Prompt Engineering / AI-Tool Workflows
+### Experience
 
-### 💻 Tools & Stack
+**UI/UX & Product Intern · AeroGlyphics** (2026 – Present)
+Originally scoped as a marketing internship, the role shifted when the team decided to build a
+submission for the Gemini XPRIZE hackathon. Contributed UI/UX to **AeroCoach** — a tool that
+reads Fitbit/Apple Watch data and translates it into a plain-English read on sleep-apnea risk —
+as part of a collaborative team build. Also ran early market and competitor research and wrote
+the demo video script and submission narrative.
+→ [Live project](https://vo2max-predictor-git-89170208601.europe-west1.run.app/)
 
-**AI Tools**
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-8B5CF6?style=for-the-badge&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+**Outgoing Global Exchange (OGX) Team Leader · AIESEC in Pécs** (Jun 2026 – Present)
+Multi-semester member of AIESEC in Pécs; transitioned into the OGX Team Leader role in June
+2026 after a summer selection process. Currently running consultations with prospective
+exchange participants while awaiting team assignment.
 
-**Analytics & QA**
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+### Working with AI
 
-**Core**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Hands-on experience with AI-assisted development, primarily through Claude, used
+conversationally to work through problems and build real product features rather than write
+code from scratch. AeroCoach is the clearest example of this in practice — not an expert-level
+skill, but a real, working one.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
+### Focus areas
+
+`Product & Market Research` `UI/UX Design` `Product Thinking` `AI-Assisted Product Development`
+`Cross-Functional Collaboration` `Competitive Analysis` `Technical & Product Writing`
+`Leadership & Mentoring` `Consultations` `CSE Fundamentals`
+
+### More
+
+Full background and case studies → **[personal site](https://claude.ai/code/artifact/01e2570f-64a3-46c8-80a1-4106b7ef7762)**
+
+<br>
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jyrahazlei&show_icons=true&theme=default&hide_border=true&title_color=8C3F4A&icon_color=B4626E&text_color=231F1E" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyrahazlei&layout=compact&hide_border=true&title_color=8C3F4A&text_color=231F1E&langs_count=6" />
+</p>
